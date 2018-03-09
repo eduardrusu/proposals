@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 MAR 2018 02:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  7 MAR 2018 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -153,22 +153,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package epstopdf Info: Source file: <collage.eps>
-(epstopdf)                    date: 2018-03-05 15:44:38
-(epstopdf)                    size: 2235411 bytes
+(epstopdf)                    date: 2018-03-07 15:28:11
+(epstopdf)                    size: 2242822 bytes
 (epstopdf)             Output file: <collage-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-03-05 15:44:38
-(epstopdf)                    size: 488409 bytes
+(epstopdf)                    date: 2018-03-07 15:29:07
+(epstopdf)                    size: 487551 bytes
 (epstopdf)             Command: <repstopdf --outfile=collage-eps-converted-to.p
 df collage.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
 
-<collage-eps-converted-to.pdf, id=13, 825.0825pt x 536.0025pt>
+<collage-eps-converted-to.pdf, id=13, 822.07124pt x 530.98375pt>
 File: collage-eps-converted-to.pdf Graphic file (type pdf)
 
 <use collage-eps-converted-to.pdf>
 Package pdftex.def Info: collage-eps-converted-to.pdf used on input line 39.
-(pdftex.def)             Requested size: 486.54054pt x 316.07515pt.
+(pdftex.def)             Requested size: 486.54054pt x 314.25804pt.
 
 Overfull \hbox (17.0pt too wide) in paragraph at lines 38--42
 []$[]$
@@ -192,7 +192,7 @@ e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on science_Subaru.pdf (2 pages, 587754 bytes).
+Output written on science_Subaru.pdf (2 pages, 588519 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
