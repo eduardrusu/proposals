@@ -18,7 +18,7 @@
   0.3 arcseconds
 9. Please describe the AO guide stars as follows.
   i. R (or, V if not available) magnitude of your AO guide star.
-     R=16.2 (second chose is R=13.5)
+     R=16.2 (second choice, in case of bright sky, is R=13.5)
   ii. Separation between the target and the AO guide star
      33 arcseconds (second chose is 65 arcseconds; see the finding chart)
   iii. Whether the AO guide star is a point source or not. 
@@ -48,7 +48,7 @@
 11:34:38.163	-21:03:20.61	2M1134-2103 TT Guide star (first choice)
 11:34:42.694	-21:02:25.30	2M1134-2103 TT Guide star (second choice)	
 
-## Imaging observation with AO for the first target ##
+## Imaging observation with AO for the second target ##
 1. Object/field name :
     2M1310-1714
 2. Right ascension of the target field in format HHMMSS.SSS
