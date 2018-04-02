@@ -98,8 +98,7 @@
 #   HH:MM:SS.SSS	[+/-]DD:MM:SS.SS	Target name and additional
 13:10:19.863	-17:14:14.44	2M1310-1714 TT Guide star	
 
-# Standard star observations without AO
-
+## Standard star observations without AO ##
 1. Object/field name :
     FS 129
 2. Right ascension of the target field in format HHMMSS.SSS
