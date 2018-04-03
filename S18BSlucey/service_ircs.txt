@@ -26,19 +26,19 @@
 10. Filter(s)/Band configuration for observation. If more than one filter is to be used, separate them with commas.
      Kp
 11. Pixel scale of camera detector array for imaging, or Grism spectroscopy (20MAS/52MAS).
-     52MAS
+     20MAS
 12. Slit width for Grism/Echelle spectroscopy. A value must be given for each band configuration specified in item 10, separated by commas.
      N/A
 13. Field position angle (PA) for imaging, or slit PA for Grism/Echelle spectroscopy. 
     90 degree
 14. Single frame exposure time in seconds.
-     60
+     150
 15. Number of coadds at each dithering position.
      1
 16. Dither patterns.
-     S5*5
+     S5*2
 17. Dithering size in arcseconds ("DITH" in the above figures).
-    10 in both RA and DEC
+    5.5 in both RA and DEC
 18. Type of target. Use "OBJ" for objects, "STD" for standards.
     OBJ
 19. Name of the target, to be written in the OBJECT field of the image FITS header.

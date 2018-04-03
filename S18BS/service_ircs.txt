@@ -8,14 +8,14 @@
 4. Equinox of position in format YYYY.Y
     2000.0
 5. Are photometric conditions necessary? (Yes/No)
-    Yes
+    No
 6. Observation mode (Imaging/Grism/Echelle) imaging
   i. For imaging, do you need AO188? (Yes/No) Yes
   ii. NGS, or LGS? LGS
 7. Magnitude/range of magnitudes in a specified NIR band.
     AB-system K=19.5, H=19.6 mag/arcsec^2 (arc feature)
 8. What is the maximum acceptable seeing size (in arcseconds) in the specified NIR band? In case of using AO188, please provide the maximum acceptable FWHM of the point-spread function after the AO correction.
-  0.3 arcseconds
+  0.2 arcseconds
 9. Please describe the AO guide stars as follows.
   i. R (or, V if not available) magnitude of your AO guide star.
      R=15.0
@@ -26,19 +26,19 @@
 10. Filter(s)/Band configuration for observation. If more than one filter is to be used, separate them with commas.
      Kp, H
 11. Pixel scale of camera detector array for imaging, or Grism spectroscopy (20MAS/52MAS).
-     52MAS
+     20MAS
 12. Slit width for Grism/Echelle spectroscopy. A value must be given for each band configuration specified in item 10, separated by commas.
      N/A
 13. Field position angle (PA) for imaging, or slit PA for Grism/Echelle spectroscopy. 
     90 degree
 14. Single frame exposure time in seconds.
-     30
+     180 in both filters
 15. Number of coadds at each dithering position.
      1
 16. Dither patterns.
-     S5*12
+     S5*2 + 2/5*S5 (this means only the first two exposures in the third sequence) in both filters
 17. Dithering size in arcseconds ("DITH" in the above figures).
-    15 in both RA and DEC
+    6.5 in both RA and DEC
 18. Type of target. Use "OBJ" for objects, "STD" for standards.
     OBJ
 19. Name of the target, to be written in the OBJECT field of the image FITS header.
