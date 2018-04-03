@@ -26,19 +26,19 @@
 10. Filter(s)/Band configuration for observation. If more than one filter is to be used, separate them with commas.
      Kp
 11. Pixel scale of camera detector array for imaging, or Grism spectroscopy (20MAS/52MAS).
-     20MAS
+     52MAS
 12. Slit width for Grism/Echelle spectroscopy. A value must be given for each band configuration specified in item 10, separated by commas.
      N/A
 13. Field position angle (PA) for imaging, or slit PA for Grism/Echelle spectroscopy. 
     90 degree
 14. Single frame exposure time in seconds.
-     240
+     60
 15. Number of coadds at each dithering position.
      1
 16. Dither patterns.
-     S5*2
+     S5*5
 17. Dithering size in arcseconds ("DITH" in the above figures).
-    5.5 in both RA and DEC
+    10 in both RA and DEC
 18. Type of target. Use "OBJ" for objects, "STD" for standards.
     OBJ
 19. Name of the target, to be written in the OBJECT field of the image FITS header.
@@ -85,9 +85,8 @@
      60
 15. Number of coadds at each dithering position.
      1
-     1
 16. Dither patterns.
-     S5*9
+     S5*25
 17. Dithering size in arcseconds ("DITH" in the above figures).
     10 in both RA and DEC
 18. Type of target. Use "OBJ" for objects, "STD" for standards.
@@ -119,19 +118,19 @@
 10. Filter(s) for observation.
      Kp
 11. Pixel scale of camera detector array for imaging, or Grism spectroscopy (20MAS/52MAS).
-     52MAS (Kp), 20MAS (Kp)
+     52MAS (Kp)
 12. Slit width for Grism/Echelle spectroscopy. A value must be given for each band configuration specified in item 10, separated by commas.
      N/A
 13. Field position angle (PA) for imaging, or slit PA for Grism/Echelle spectroscopy. 
     90 degree
 14. Single frame exposure time in seconds.
-     1 (52MAS), 1 (20MAS)
+     1
 15. Number of coadds at each dithering position.
      1
 16. Dither pattern.
      S5*1 (the first three positions are sufficient)
 17. Dithering size in arcseconds ("DITH" in the above figures).
-    5
+    10
 18. Type of target. Use "OBJ" for objects, "STD" for standards.
     STD
 19. Name of the target, to be written in the OBJECT field of the image FITS header.
