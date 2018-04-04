@@ -15,7 +15,7 @@
 7. Magnitude/range of magnitudes in a specified NIR band.
     VEGA K=15.3 (A), 15.1 (B), 15.2 (C), 16.8 (D), 17.3 (G)
 8. What is the maximum acceptable seeing size (in arcseconds) in the specified NIR band? In case of using AO188, please provide the maximum acceptable FWHM of the point-spread function after the AO correction.
-  0.3 arcseconds
+  0.2 arcseconds
 9. Please describe the AO guide stars as follows.
   i. R (or, V if not available) magnitude of your AO guide star.
      R=16.2 (second choice, in case of bright sky, is R=13.5)
@@ -118,7 +118,7 @@
 10. Filter(s) for observation.
      Kp
 11. Pixel scale of camera detector array for imaging, or Grism spectroscopy (20MAS/52MAS).
-     52MAS (Kp)
+     20MAS,52MAS
 12. Slit width for Grism/Echelle spectroscopy. A value must be given for each band configuration specified in item 10, separated by commas.
      N/A
 13. Field position angle (PA) for imaging, or slit PA for Grism/Echelle spectroscopy. 
@@ -128,7 +128,7 @@
 15. Number of coadds at each dithering position.
      1
 16. Dither pattern.
-     S5*1 (the first three positions are sufficient)
+     S5*3/5 (the first three positions are sufficient)
 17. Dithering size in arcseconds ("DITH" in the above figures).
     10
 18. Type of target. Use "OBJ" for objects, "STD" for standards.
